@@ -1,1 +1,2 @@
-# yangdongau-20200929Q96K97del_FMP_Y_maze_behaviour-analysis
+The raw data and analysis of heterozygous Q96_K97del mutant zebrafish
+The analysis followed the scripts from Karissa
